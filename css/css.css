@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+* 
+
+body{
+    font-family: 'VT323', monospace;
+    background-image: url('https://i.pinimg.com/originals/17/77/ee/1777eedea3ceaad36a2966a2826c2aad.png');
+    background-size: cover;
+    height: 100vh;
+    padding:0;
+    margin:0;
+    font-size: 20px;
+}
+
+
+.caixa{
+ position: absolute;
+ top: 130px;
+ left: 470px;
+ border: 1px solid rgba(255, 255, 255, 0.041);
+ background-color: rgba(255, 255, 255, 0.178);
+ border-radius: 10px;
+ width: 420px;
+ padding: 1px 15px;
+ 
+}
+
+button{
+ font-family: 'VT323', monospace;
+ font-size: 16px;
+ border: 1px solid rgba(255, 255, 255, 0.041);
+ background-color: rgba(255, 255, 255, 0.178);
+ float: right;
+ margin-bottom: 8px;
+ 
+}
